@@ -61,4 +61,16 @@ a {
   max-width: 100%;
   height: auto;
   display: block;
+}
+
+span {
+  color: rgb(217, 0, 255);
+}
+
+.slogan {
+  font-size: 25px;
+}
+
+.appi {
+  margin-top: 10px;
 }/*# sourceMappingURL=app.component.css.map */
