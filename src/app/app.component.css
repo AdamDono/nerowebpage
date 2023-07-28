@@ -106,4 +106,17 @@ span {
     width: 100%;
     height: auto;
   }
+}
+.trade {
+  text-align: center;
+}
+
+.services {
+  display: flex;
+}
+
+.service {
+  flex: 1;
+  padding: 10px;
+  text-align: center;
 }/*# sourceMappingURL=app.component.css.map */
